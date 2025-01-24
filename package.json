@@ -1,0 +1,27 @@
+{
+  "name": "random-cool-names",
+  "version": "1.0.0",
+  "description": "provides random cool names that can use any platform",
+  "keywords": [
+    "random",
+    "names"
+  ],
+  "homepage": "https://github.com/nagesh-code9/random-cool-names#readme",
+  "bugs": {
+    "url": "https://github.com/nagesh-code9/random-cool-names/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagesh-code9/random-cool-names.git"
+  },
+  "license": "MIT",
+  "author": "Nagesh Tripathi <nageshmzp90@gmai.com>",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
